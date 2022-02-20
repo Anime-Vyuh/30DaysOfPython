@@ -1,6 +1,8 @@
 # 30DaysOfPython
-Learn Python With Anime Vyuh In Easy Way. Tutorials available in detail in our Blog pag: [Anime Vyuh Blog: A Fusion Of Coding And Anime](https://animevyuh.org/blog)
 <img src="https://animevyuh.org/wp-content/uploads/2021/09/cropped-animevyuh-1-130x98.png">
+
+Learn Python With Anime Vyuh In Easy Way. Tutorials available in detail in our Blog pag: [Anime Vyuh Blog: A Fusion Of Coding And Anime](https://animevyuh.org/blog)
+
 
 ```py
 try:
