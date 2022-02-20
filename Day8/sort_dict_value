@@ -1,0 +1,8 @@
+manual = {"apple":12,"mango":23,"cake":2,"pastries":4,"chocolate":56}
+sorted_dict = dict(sorted(manual.items(),reverse=True,key=lambda x:x[1]))
+print(sorted_dict)
+"""
+sorted returns in list with a tuple of dictionary items with values at index one
+"""
+
+
