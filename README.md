@@ -60,7 +60,9 @@ You can contribute to see this repo, follow the below steps to contribute
 
 ## Support
 
-Contribute As A Donation: [Buy Me A Coffee](https://www.buymeacoffee.com/trjtarun)
+Donate: 
+- [Buy Me A Coffee](https://www.buymeacoffee.com/trjtarun)
+- [Ko-Fi](https://ko-fi.com/tarunrjain751)
 
 ### Author
 
